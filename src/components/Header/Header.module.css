@@ -1,0 +1,14 @@
+.Header {
+    width: 100%;
+    margin: auto;
+    height: 250px;    
+    text-align: center;
+    font-weight: bold;
+    font-size: 3.2rem;            
+}
+
+.Header p {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+  }

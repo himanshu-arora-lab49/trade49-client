@@ -1,0 +1,29 @@
+.TradeDetail {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    overflow: auto;
+    text-align: center;
+    font-size: 1.4rem;
+    color: grey;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Grid {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.AGgrid {
+    width: 820px;
+    height: 500px;
+}
